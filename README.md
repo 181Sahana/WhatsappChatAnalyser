@@ -1,18 +1,27 @@
 # WhatsappChatAnalyser
 
-WhatsApp Chat Analyzer
+###WhatsApp Chat Analyzer
 
-Project Overview
+**Project Overview**
 WhatsApp Chat Analyzer is a Python-based project with a Streamlit user interface designed to analyze and visualize data from WhatsApp chat exports. It enables users to gain insights from their chat history, including message statistics, word frequencies, and interactive visualizations.
 
-Prerequisites
+
+_____________________________________________________________________________________________________________________________________________________________
+
+*Prerequisites*
 Before you begin, ensure you have met the following requirements:
 
-Python 3.x
-Required Python libraries (specified in requirements.txt)
-A WhatsApp chat export file (.txt) from your conversation
+* Python 3.x
+* Required Python libraries (specified in requirements.txt)
+* A WhatsApp chat export file (.txt) from your conversation.
 
-Features
+
+___________________________________________________________________________________________________________________________________________________________________
+
+
+*Features*
+
+
 Message Statistics: View statistics about the chat, including the total number of messages, participants, and more.
 
 Word Frequency Analysis: Analyze word frequencies to see which words or phrases are used most often.
